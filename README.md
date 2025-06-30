@@ -1,6 +1,8 @@
 # TrainFlow: Your Zero-Code ML Studio
 
-![TrainFlow Logo](https://github.com/SOWMIYAN-S/TrainFlow/blob/main/logo.png) **TrainFlow** is a powerful, zero-code Machine Learning tool designed for developers, students, and AI enthusiasts to build, test, and deploy ML models without writing a single line of code.
+<img src="https://github.com/SOWMIYAN-S/TrainFlow/blob/main/logo.png" alt="TrainFlow Logo" width="100" height="100">
+
+**TrainFlow** is a powerful, zero-code Machine Learning tool designed for developers, students, and AI enthusiasts to build, test, and deploy ML models without writing a single line of code.
 
 ## 🚀 Features
 
@@ -103,28 +105,14 @@ To run TrainFlow locally, follow these steps:
 
 4.  **Run the Streamlit applications:**
 
-    * **To start the Model Builder:**
+    * **To start the Whole application:**
         ```bash
-        streamlit run Model_Builder.py
+        python launch_app.py
         ```
-    * **To start the Model Runner:**
-        ```bash
-        streamlit run Model_Runner.py
-        ```
-    * **To start the Data Visualizer:**
-        ```bash
-        streamlit run Visualizer.py
-        ```
-    * **To view the About page:**
-        ```bash
-        streamlit run About_TrainFlow.py
-        ```
+
 
     TrainFlow will open in your default web browser.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
 
 ## 📞 Contact
 
