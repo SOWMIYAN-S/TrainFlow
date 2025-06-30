@@ -1,6 +1,6 @@
 # TrainFlow: Your Zero-Code ML Studio
 
-![TrainFlow Logo](https://via.placeholder.com/150/FF69B4/FFFFFF?text=TrainFlow) **TrainFlow** is a powerful, zero-code Machine Learning tool designed for developers, students, and AI enthusiasts to build, test, and deploy ML models without writing a single line of code.
+![TrainFlow Logo](https://github.com/SOWMIYAN-S/TrainFlow/blob/main/logo.png) **TrainFlow** is a powerful, zero-code Machine Learning tool designed for developers, students, and AI enthusiasts to build, test, and deploy ML models without writing a single line of code.
 
 ## 🚀 Features
 
@@ -75,7 +75,7 @@ To run TrainFlow locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/TrainFlow.git](https://github.com/your-username/TrainFlow.git)
+    git clone [https://github.com/SOWMIYAN-S/TrainFlow.git](https://github.com/SOWMIYAN-S/TrainFlow.git)
     cd TrainFlow
     ```
 2.  **Create a virtual environment (recommended):**
